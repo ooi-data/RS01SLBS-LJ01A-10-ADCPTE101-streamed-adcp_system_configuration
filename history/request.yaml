@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: RS01SLBS-LJ01A-10-ADCPTE101-streamed-adcp_system_configuration
-last_request: '2021-12-06T20:24:21.276187Z'
+last_request: '2021-12-21T22:34:40.057066Z'
 response: https://raw.githubusercontent.com/ooi-data/RS01SLBS-LJ01A-10-ADCPTE101-streamed-adcp_system_configuration/main/history/response.json
 status: discontinued
